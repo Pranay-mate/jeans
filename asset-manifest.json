@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jeans/static/css/main.07ed9c44.chunk.css",
+    "main.css": "/jeans/static/css/main.393a9d82.chunk.css",
     "main.js": "/jeans/static/js/main.a5ced6d2.chunk.js",
     "main.js.map": "/jeans/static/js/main.a5ced6d2.chunk.js.map",
     "runtime-main.js": "/jeans/static/js/runtime-main.68ffc4be.js",
@@ -12,7 +12,7 @@
     "static/js/3.97975db8.chunk.js.map": "/jeans/static/js/3.97975db8.chunk.js.map",
     "index.html": "/jeans/index.html",
     "static/css/2.b9fe2190.chunk.css.map": "/jeans/static/css/2.b9fe2190.chunk.css.map",
-    "static/css/main.07ed9c44.chunk.css.map": "/jeans/static/css/main.07ed9c44.chunk.css.map",
+    "static/css/main.393a9d82.chunk.css.map": "/jeans/static/css/main.393a9d82.chunk.css.map",
     "static/js/2.49d83771.chunk.js.LICENSE.txt": "/jeans/static/js/2.49d83771.chunk.js.LICENSE.txt",
     "static/media/1.fe85c113.png": "/jeans/static/media/1.fe85c113.png",
     "static/media/2.c57c6824.png": "/jeans/static/media/2.c57c6824.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.68ffc4be.js",
     "static/css/2.b9fe2190.chunk.css",
     "static/js/2.49d83771.chunk.js",
-    "static/css/main.07ed9c44.chunk.css",
+    "static/css/main.393a9d82.chunk.css",
     "static/js/main.a5ced6d2.chunk.js"
   ]
 }
