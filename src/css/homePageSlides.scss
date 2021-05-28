@@ -20,7 +20,8 @@ $mode: cubic-bezier(0.17, 0.67, 0.55, 1.43);
 }
 .react-3d-carousel {
   position: relative;
-  // height: 600px;
+  margin-top: 1em;
+  height: 20em;
   .slider-container {
     position: absolute;
     left: 50%;
@@ -195,5 +196,6 @@ $mode: cubic-bezier(0.17, 0.67, 0.55, 1.43);
         display: none;
       }
     }
+
   }
 }
