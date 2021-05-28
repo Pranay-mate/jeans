@@ -4,10 +4,11 @@ import React, { Fragment } from "react";
 import Simple from "./slider/simple";
 import WithScrollbar from "./slider/scollbar";
 import Section from "./slider/section";
+import '../css/multiCards.css'
 
 const multiCards = ({ deviceType }) => {
   return (
-    <Fragment>
+    <Fragment className='multi-cards'>
       <Section>
         <Simple deviceType={deviceType} />
       </Section>

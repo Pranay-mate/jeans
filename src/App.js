@@ -1,10 +1,11 @@
 import HomePageSlides from './components/homePageSlides.js';
-import MultiCards from './components/multiCards'
+import MultiCards from './components/multiCards';
+import MenuBar from './components/menu.js';
 
 function App() {
   return (
     <div className="App">
-      <header>Denimo</header>
+      <MenuBar></MenuBar>
       <HomePageSlides></HomePageSlides>
       <MultiCards></MultiCards>
     </div>

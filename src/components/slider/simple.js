@@ -1,5 +1,6 @@
 import Carousel from "react-multi-carousel";
 import { Image } from "semantic-ui-react";
+import slides from '../images';
 
 const responsive = {
   desktop: {
@@ -18,18 +19,6 @@ const responsive = {
     paritialVisibilityGutter: 30
   }
 };
-const images = [
-    <img  src="https://picsum.photos/800/300/?random" alt="1" style={{height: '8em'}} />,
-    <img  src="https://picsum.photos/800/303/?random" alt="6" style={{height: '8em'}} />  ,
-    <img  src="https://picsum.photos/800/301/?random" alt="2" style={{height: '8em'}} />  ,
-    <img  src="https://picsum.photos/800/302/?random" alt="3" style={{height: '8em'}} />  , 
-    <img  src="https://picsum.photos/800/303/?random" alt="4" style={{height: '8em'}} />  ,
-    <img src="https://picsum.photos/800/304/?random" alt="5" style={{height: '8em'}} />,
-    <img  src="https://picsum.photos/800/301/?random" alt="2" style={{height: '8em'}} />  ,
-    <img  src="https://picsum.photos/800/302/?random" alt="3" style={{height: '8em'}} />  , 
-    <img  src="https://picsum.photos/800/303/?random" alt="4" style={{height: '8em'}} />  ,
-    <img src="https://picsum.photos/800/304/?random" alt="5" style={{height: '8em'}} /> 
-];
 
 // Because this is an inframe, so the SSR mode doesn't not do well here.
 // It will work on real devices.
@@ -42,7 +31,7 @@ const Simple = ({ deviceType }) => {
       itemClass="image-item"
       responsive={responsive}
     >
-      {images.map((image) => {
+      {slides.map((image) => {
         return (
           <div>
             
