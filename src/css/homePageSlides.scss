@@ -12,7 +12,7 @@ $mode: cubic-bezier(0.17, 0.67, 0.55, 1.43);
     transform: scale(1);
   }
   75% {
-    transform: scale(1.2);
+    transform: scale(1.4);
   }
   100% {
     transform: scale(1);
@@ -21,7 +21,8 @@ $mode: cubic-bezier(0.17, 0.67, 0.55, 1.43);
 .react-3d-carousel {
   position: relative;
   margin-top: 1em;
-  height: 20em;
+  background-color: black;
+  padding: 1em 0em;
   .slider-container {
     position: absolute;
     left: 50%;

@@ -1,0 +1,5 @@
+@media only screen and (max-width: 600px) {
+    .react-3d-carousel .home-page-images {
+        height: 14em;
+    }
+}
