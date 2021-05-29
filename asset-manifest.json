@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jeans/static/css/main.393a9d82.chunk.css",
-    "main.js": "/jeans/static/js/main.a5ced6d2.chunk.js",
-    "main.js.map": "/jeans/static/js/main.a5ced6d2.chunk.js.map",
-    "runtime-main.js": "/jeans/static/js/runtime-main.68ffc4be.js",
-    "runtime-main.js.map": "/jeans/static/js/runtime-main.68ffc4be.js.map",
+    "main.css": "/jeans/static/css/main.31eec02a.chunk.css",
+    "main.js": "/jeans/static/js/main.a4ac8145.chunk.js",
+    "main.js.map": "/jeans/static/js/main.a4ac8145.chunk.js.map",
+    "runtime-main.js": "/jeans/static/js/runtime-main.c49e9285.js",
+    "runtime-main.js.map": "/jeans/static/js/runtime-main.c49e9285.js.map",
     "static/css/2.b9fe2190.chunk.css": "/jeans/static/css/2.b9fe2190.chunk.css",
-    "static/js/2.49d83771.chunk.js": "/jeans/static/js/2.49d83771.chunk.js",
-    "static/js/2.49d83771.chunk.js.map": "/jeans/static/js/2.49d83771.chunk.js.map",
-    "static/js/3.97975db8.chunk.js": "/jeans/static/js/3.97975db8.chunk.js",
-    "static/js/3.97975db8.chunk.js.map": "/jeans/static/js/3.97975db8.chunk.js.map",
+    "static/js/2.ad5bc8ec.chunk.js": "/jeans/static/js/2.ad5bc8ec.chunk.js",
+    "static/js/2.ad5bc8ec.chunk.js.map": "/jeans/static/js/2.ad5bc8ec.chunk.js.map",
+    "static/js/3.4e477820.chunk.js": "/jeans/static/js/3.4e477820.chunk.js",
+    "static/js/3.4e477820.chunk.js.map": "/jeans/static/js/3.4e477820.chunk.js.map",
     "index.html": "/jeans/index.html",
     "static/css/2.b9fe2190.chunk.css.map": "/jeans/static/css/2.b9fe2190.chunk.css.map",
-    "static/css/main.393a9d82.chunk.css.map": "/jeans/static/css/main.393a9d82.chunk.css.map",
-    "static/js/2.49d83771.chunk.js.LICENSE.txt": "/jeans/static/js/2.49d83771.chunk.js.LICENSE.txt",
+    "static/css/main.31eec02a.chunk.css.map": "/jeans/static/css/main.31eec02a.chunk.css.map",
+    "static/js/2.ad5bc8ec.chunk.js.LICENSE.txt": "/jeans/static/js/2.ad5bc8ec.chunk.js.LICENSE.txt",
     "static/media/1.fe85c113.png": "/jeans/static/media/1.fe85c113.png",
     "static/media/2.c57c6824.png": "/jeans/static/media/2.c57c6824.png",
     "static/media/3.b6e3c5af.png": "/jeans/static/media/3.b6e3c5af.png",
@@ -23,10 +23,10 @@
     "static/media/styles.css": "/jeans/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.68ffc4be.js",
+    "static/js/runtime-main.c49e9285.js",
     "static/css/2.b9fe2190.chunk.css",
-    "static/js/2.49d83771.chunk.js",
-    "static/css/main.393a9d82.chunk.css",
-    "static/js/main.a5ced6d2.chunk.js"
+    "static/js/2.ad5bc8ec.chunk.js",
+    "static/css/main.31eec02a.chunk.css",
+    "static/js/main.a4ac8145.chunk.js"
   ]
 }
