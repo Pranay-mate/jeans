@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/jeans/static/css/main.324370b8.chunk.css",
-    "main.js": "/jeans/static/js/main.a4ac8145.chunk.js",
-    "main.js.map": "/jeans/static/js/main.a4ac8145.chunk.js.map",
-    "runtime-main.js": "/jeans/static/js/runtime-main.c49e9285.js",
-    "runtime-main.js.map": "/jeans/static/js/runtime-main.c49e9285.js.map",
+    "main.js": "/jeans/static/js/main.eb97c51f.chunk.js",
+    "main.js.map": "/jeans/static/js/main.eb97c51f.chunk.js.map",
+    "runtime-main.js": "/jeans/static/js/runtime-main.9916c561.js",
+    "runtime-main.js.map": "/jeans/static/js/runtime-main.9916c561.js.map",
     "static/css/2.b9fe2190.chunk.css": "/jeans/static/css/2.b9fe2190.chunk.css",
-    "static/js/2.ad5bc8ec.chunk.js": "/jeans/static/js/2.ad5bc8ec.chunk.js",
-    "static/js/2.ad5bc8ec.chunk.js.map": "/jeans/static/js/2.ad5bc8ec.chunk.js.map",
-    "static/js/3.4e477820.chunk.js": "/jeans/static/js/3.4e477820.chunk.js",
-    "static/js/3.4e477820.chunk.js.map": "/jeans/static/js/3.4e477820.chunk.js.map",
+    "static/js/2.9d746804.chunk.js": "/jeans/static/js/2.9d746804.chunk.js",
+    "static/js/2.9d746804.chunk.js.map": "/jeans/static/js/2.9d746804.chunk.js.map",
+    "static/js/3.c981de20.chunk.js": "/jeans/static/js/3.c981de20.chunk.js",
+    "static/js/3.c981de20.chunk.js.map": "/jeans/static/js/3.c981de20.chunk.js.map",
     "index.html": "/jeans/index.html",
     "static/css/2.b9fe2190.chunk.css.map": "/jeans/static/css/2.b9fe2190.chunk.css.map",
     "static/css/main.324370b8.chunk.css.map": "/jeans/static/css/main.324370b8.chunk.css.map",
-    "static/js/2.ad5bc8ec.chunk.js.LICENSE.txt": "/jeans/static/js/2.ad5bc8ec.chunk.js.LICENSE.txt",
+    "static/js/2.9d746804.chunk.js.LICENSE.txt": "/jeans/static/js/2.9d746804.chunk.js.LICENSE.txt",
     "static/media/1.fe85c113.png": "/jeans/static/media/1.fe85c113.png",
     "static/media/2.c57c6824.png": "/jeans/static/media/2.c57c6824.png",
     "static/media/3.b6e3c5af.png": "/jeans/static/media/3.b6e3c5af.png",
@@ -23,10 +23,10 @@
     "static/media/styles.css": "/jeans/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c49e9285.js",
+    "static/js/runtime-main.9916c561.js",
     "static/css/2.b9fe2190.chunk.css",
-    "static/js/2.ad5bc8ec.chunk.js",
+    "static/js/2.9d746804.chunk.js",
     "static/css/main.324370b8.chunk.css",
-    "static/js/main.a4ac8145.chunk.js"
+    "static/js/main.eb97c51f.chunk.js"
   ]
 }
