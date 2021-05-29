@@ -1,6 +1,10 @@
 import Carousel from "react-multi-carousel";
 import { Image } from "semantic-ui-react";
 import slides from '../images';
+import {CopyToClipboard} from 'react-copy-to-clipboard';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faRupeeSign } from '@fortawesome/free-solid-svg-icons'
 
 const responsive = {
   desktop: {
@@ -41,16 +45,22 @@ const Simple = ({ deviceType }) => {
             </div>
             <div class="content">
                 <div class="meta">
-                <span class="date">Joined in 2013</span>
+                <span class="date">Size: 28 30 31 </span>
                 </div>
                 <div class="description">
-                Kristy is
+                Size: 28 30 31
                 </div>
+                
             </div>
             <div class="extra content">
                 <a>
-                <i class="user icon"></i>
-                22 Friends
+                <i class="fas fa-rupee-sign"></i>
+                <span style={{textDecoration: 'line-through'}}>
+                <FontAwesomeIcon icon={faRupeeSign} size = '1x' />
+                &nbsp;700 </span>&nbsp;
+                <span style={{backgroundColor: '#fff2ac'}}> 
+                <FontAwesomeIcon icon={faRupeeSign} size = '1x' />
+                &nbsp;300</span>
                 </a>
             </div>
             </div>
