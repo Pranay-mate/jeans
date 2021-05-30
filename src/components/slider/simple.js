@@ -1,6 +1,6 @@
 import Carousel from "react-multi-carousel";
 import { Image } from "semantic-ui-react";
-import slides from '../images';
+import slides from '../sliderImages.js';
 import {CopyToClipboard} from 'react-copy-to-clipboard';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

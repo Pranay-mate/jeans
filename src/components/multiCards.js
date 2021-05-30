@@ -6,6 +6,7 @@ import WithScrollbar from "./slider/scollbar";
 import Section from "./slider/section";
 import '../css/multiCards.css'
 
+
 const multiCards = ({ deviceType }) => {
   return (
     <Fragment className='multi-cards'>
