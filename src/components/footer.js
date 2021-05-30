@@ -16,11 +16,9 @@ class Footer extends Component {
             <div class="ui equal width center aligned padded grid footer" style={{height:'auto', backgroundColor:'#202020', color:'#878787'}}>
                 <div class="three column row">
                     <div class="four wide column company-logo" style={{margin: 'auto'}}>Denimo</div>
-                    <div class="eight wide column footer-copyright">
-                        <i class="copyright icon"></i>
-                        2021, All Rights Reserved by Pranay Mate
-                    </div>
-                    <div class="four wide column footer-icons" >
+                    <div class=" column footer-copyright">
+                        <span className='copyright-span'><i class="copyright icon"></i>2021, All Rights Reserved by Pranay Mate</span>
+                        <div class="footer-icons" >
                         <a  href="https://pranay-mate.github.io/portfolio/">
                             <i class="user circle large link icon" ></i>
                         </a>
@@ -34,6 +32,8 @@ class Footer extends Component {
                           <i class="envelope large icon"></i>
                         </a>
                     </div>
+                    </div>
+                    
                 </div>
             </div>
 
