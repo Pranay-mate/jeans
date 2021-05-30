@@ -45,7 +45,7 @@ const Simple = ({ deviceType }) => {
             </div>
             <div class="content">
                 <div class="meta">
-                <span class="date">Size: 28 30 31 </span>
+                <span class="date">Length: Ankle/Full </span>
                 </div>
                 <div class="description">
                 Size: 28 30 31
