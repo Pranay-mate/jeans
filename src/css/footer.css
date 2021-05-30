@@ -1,0 +1,19 @@
+body, #exclude {
+    text-decoration: none;
+    color: black;
+    cursor: auto;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.footer .company-logo{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 2em;
+}
+.footer .wide.column{
+    margin: auto!important;
+}
