@@ -1,3 +1,13 @@
+.review-section-review
+{
+    height: 6em;
+}
+@media only screen and (max-width: 600px) {
+    .review-section-review
+    {
+        height: 5em;
+    }
+}
 .review-header{
     text-align: center;
     font-size: 3em;
@@ -264,8 +274,8 @@ button:hover {
 }
 @media only screen and (max-width: 600px) {
     .slider-content-review img {
-        width: 4em;
-        height: 4em;
+        width: 6em;
+        height: 6em;
         border: solid 2px rgba(255, 255, 255, 0.5);
         border-radius: 100%;
         vertical-align: middle;
