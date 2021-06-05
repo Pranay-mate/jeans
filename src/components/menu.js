@@ -29,7 +29,7 @@ class MenuBar extends Component {
                 <Navbar dark expand="md" className="navbar  navbar-dark transparent-nav nav-js col-sm-12">
                     <div className="container">
                         <NavbarBrand className="mr-auto" href="/"><Link className="navbar-brand ml-4" href="/" activeClass="active"
-                        to="AboutMe"
+                        to="home-caurosal"
                         spy={true}
                         smooth={true}
                         offset={-200}
@@ -46,7 +46,7 @@ class MenuBar extends Component {
                             <Link
                             className="nav-item nav-link"
                               activeClass="active"
-                              to="Education"
+                              to="home-caurosal"
                               spy={true}
                               smooth={true}
                               offset={-70}
@@ -58,7 +58,7 @@ class MenuBar extends Component {
                             <Link
                             className="nav-item nav-link"
                               activeClass="active"
-                              to="Experience"
+                              to="multi-cards"
                               spy={true}
                               smooth={true}
                               offset={-70}
@@ -94,7 +94,7 @@ class MenuBar extends Component {
                             <Link
                             className="nav-item nav-link"
                               activeClass="active"
-                              to="Interests"
+                              to="footer"
                               spy={true}
                               smooth={true}
                               offset={-70}

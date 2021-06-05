@@ -10,7 +10,6 @@ class homePageSlides extends Component {
         }
         
         render() {
-        
           return (
             <div className="home-caurosal" >
               {/* <Carousel slides={slides} autoplay={true} interval={2000} arrows={true} arrowBorders={true} /> */}

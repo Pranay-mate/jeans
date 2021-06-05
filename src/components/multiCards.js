@@ -9,23 +9,24 @@ import '../css/multiCards.css'
 
 const multiCards = ({ deviceType }) => {
   return (
-    <Fragment className='multi-cards'>
+    <div  className='multi-cards'>  
+      <Fragment>
       <h4 class="ui horizontal divider header">
-        <i class="bar chart icon"></i>
+      <i class="shopping cart icon"></i>
         Low Waist
       </h4>
       <Section>
         <Simple deviceType={deviceType} />
       </Section>
       <h4 class="ui horizontal divider header">
-        <i class="bar chart icon"></i>
+        <i class="shopping cart icon"></i>
         High Waist
       </h4>
       <Section>
         <Simple deviceType={deviceType} />
       </Section>
       <h4 class="ui horizontal divider header">
-        <i class="bar chart icon"></i>
+        <i class="shopping cart icon"></i>
         Shorts
       </h4>
       <Section>
@@ -33,6 +34,8 @@ const multiCards = ({ deviceType }) => {
       </Section>
      
     </Fragment>
+    </div>
+ 
   );
 };
 
