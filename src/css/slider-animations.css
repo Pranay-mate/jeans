@@ -4,11 +4,18 @@
     {
         height: 25em!important;
     }
+    .slider-content-review .inner p {
+        color: #FFFFFF;
+        font-size: 16px;
+        line-height: 1.4;
+        margin: 20px auto 30px;
+        max-width: 640px;
+      }
 }
 .review-header{
     text-align: center;
     font-size: 3em;
-    background-color: #ffe96b;
+    background-color: #ffc30b;
     font-weight: 600;
 }
 @media only screen and (max-width: 600px) {
@@ -237,7 +244,7 @@ button:hover {
 
 .slider-content-review .inner p {
   color: #FFFFFF;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   margin: 20px auto 30px;
   max-width: 640px;
