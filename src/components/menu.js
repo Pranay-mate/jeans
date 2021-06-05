@@ -70,7 +70,7 @@ class MenuBar extends Component {
                             <Link
                             className="nav-item nav-link"
                               activeClass="active"
-                              to="TechnicalSkills"
+                              to="reviews-section"
                               spy={true}
                               smooth={true}
                               offset={-60}

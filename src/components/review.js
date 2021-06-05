@@ -36,7 +36,7 @@ const content = [
 ];
 
 const Reviews = () => (
-	<div>
+	<div className='reviews-section'>
 		<div className='review-header'>
 			OUR HAPPY CUSTOMERS
 		</div>
