@@ -40,7 +40,7 @@ const Reviews = () => (
 		<div className='review-header'>
 			OUR HAPPY CUSTOMERS
 		</div>
-		<Slider className="slider-wrapper review-section-review">
+		<Slider className="slider-wrapper">
 			{content.map((item, index) => (
 				<div
 					key={index}
