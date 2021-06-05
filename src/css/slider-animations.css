@@ -1,6 +1,6 @@
 
 @media only screen and (max-width: 600px) {
-    .slider-content-review
+    .slider-content-review, .review-slider
     {
         height: 25em!important;
     }
