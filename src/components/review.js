@@ -38,7 +38,7 @@ const content = [
 const Reviews = () => (
 	<div className='reviews-section'>
 		<div className='review-header'>
-			OUR HAPPY CUSTOMERS
+		<i class="heartbeat red icon"></i>OUR HAPPY CUSTOMERS<i class="heartbeat red icon"></i>
 		</div>
 		<Slider className="slider-wrapper review-slider">
 			{content.map((item, index) => (
