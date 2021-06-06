@@ -2,7 +2,7 @@
 @media only screen and (max-width: 600px) {
     .slider-content-review, .review-slider
     {
-        height: 25em!important;
+        height: 28em!important;
     }
     .slider-content-review .inner p {
         color: #FFFFFF;
