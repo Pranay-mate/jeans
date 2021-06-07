@@ -13,7 +13,7 @@ class Footer extends Component {
         render() {
         
           return (
-            <div class="ui equal width center aligned padded grid footer" style={{height:'auto', backgroundColor:'#202020', color:'#878787'}}>
+            <div class="ui equal width center aligned padded grid footer" style={{height:'auto', backgroundColor:'black', color:'#878787'}}>
                 <div class="three column row">
                     <div class="four wide column company-logo" style={{margin: 'auto'}}>Denimo</div>
                     <div class=" column footer-copyright">

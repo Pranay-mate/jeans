@@ -10,7 +10,7 @@ import '../css/multiCards.css'
 const multiCards = ({ deviceType }) => {
   return (
     <div  className='multi-cards'> 
-      <h3 className='multi-cards-header'>Latest Feature</h3> 
+      <h3 className='multi-cards-header'>Latest Arrivals</h3> 
       <Fragment>
       <h4 class="ui horizontal divider header">
       <i class="shopping cart icon"></i>
