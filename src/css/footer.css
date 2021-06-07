@@ -22,8 +22,15 @@ a:link, a:visited {
         font-size: 1.2em;
         position: absolute;
         left: 0px;
+       
     }
     .footer-icons{
         padding-left: 45em;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .copyright-span{
+        font-size: 12px;
+        font-weight: 700;
     }
 }

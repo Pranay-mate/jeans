@@ -13,7 +13,7 @@ class homePageSlides extends Component {
           return (
             <div className="home-caurosal" >
               {/* <Carousel slides={slides} autoplay={true} interval={2000} arrows={true} arrowBorders={true} /> */}
-              <Carousel slides={slides} arrows={true} arrowBorders={true} />
+              <Carousel slides={slides} arrows={true} autoplay={true} interval={2000} arrowBorders={true} />
             </div>
           );
         }
