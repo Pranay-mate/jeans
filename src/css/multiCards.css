@@ -5,7 +5,7 @@
 }
 .multi-cards{
     padding: 1.5em 0em 1.5em 0em;
-    background-color: #35393C;
+    background-color: #343434;
     color: white!important;
 
 }
@@ -27,7 +27,7 @@
 }
 /* black n white theme start */
 .multi-cards .ui.card{
-    background-color: 	#353935;
+    background-color: 	#343434;
     box-shadow: 0 0px 0px 0 #d4d4d5, 0 0 0 0px #d4d4d5!important;
 }
 .multi-cards .extra.content{
