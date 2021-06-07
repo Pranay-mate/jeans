@@ -9,6 +9,13 @@
     color: white!important;
 
 }
+
+.multi-cards .multi-cards-header{
+    text-align: center;
+    font-family: serif;
+    font-weight: 600;
+    font-size: 3em;
+}
 /* black n white theme start */
 .multi-cards .ui.card{
     background-color: 	#353935;
