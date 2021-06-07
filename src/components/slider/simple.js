@@ -47,18 +47,18 @@ const Simple = ({ deviceType }) => {
                 <div class="meta">
                 <span class="date">Length: Ankle/Full </span>
                 </div>
-                <div class="description">
+                <div class="card-description">
                 Size: 28 30 31
                 </div>
                 
             </div>
-            <div class="extra content">
+            <div class="extra content price-section">
                 <a>
                 <i class="fas fa-rupee-sign"></i>
                 <span style={{textDecoration: 'line-through'}}>
                 <FontAwesomeIcon icon={faRupeeSign} size = '1x' />
                 &nbsp;700 </span>&nbsp;
-                <span style={{backgroundColor: '#fff2ac'}}> 
+                <span style={{backgroundColor: '#fff2ac'}} className="discount-price"> 
                 <FontAwesomeIcon icon={faRupeeSign} size = '1x' />
                 &nbsp;300</span>
                 </a>
