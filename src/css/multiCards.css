@@ -13,16 +13,15 @@
 
 .multi-cards .multi-cards-header{
     text-align: center;
-    font-family: serif;
-    font-weight: 600;
+    font-family: Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    text-shadow: 5px 2px 3px lightslategrey;
+    letter-spacing: 0.13em;
+    font-weight: 400;
     font-size: 3.5em;
 }
 @media only screen and (max-width: 600px) {
     .multi-cards .multi-cards-header{
-        text-align: center;
-        font-family: serif;
-        font-weight: 600;
-        font-size: 2.5em;
+        font-size: 2.3em;
     }
 }
 /* black n white theme start */
@@ -43,5 +42,6 @@
 }
 .multi-cards .ui.horizontal.divider.header{
     color: white!important;
+    letter-spacing: 0.14em;
 }
 /* black n white theme end */
