@@ -34,7 +34,7 @@ class MenuBar extends Component {
                         smooth={true}
                         offset={-200}
                         duration={500}>
-                          Denimo
+                         A Denimo
                         </Link>
                         </NavbarBrand>
                         <NavbarToggler onClick={this.toggleNav} />

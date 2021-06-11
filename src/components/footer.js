@@ -15,7 +15,7 @@ class Footer extends Component {
           return (
             <div class="ui equal width center aligned padded grid footer" style={{height:'auto', backgroundColor:'black', color:'#878787'}}>
                 <div class="three column row">
-                    <div class="four wide column company-logo" style={{margin: 'auto'}}>Denimo</div>
+                    <div class="four wide column company-logo" style={{margin: 'auto'}}>A Denimo</div>
                     <div class=" column footer-copyright">
                         <span className='copyright-span'><i class="copyright icon"></i>2021, All Rights Reserved by Pranay Mate</span>
                         <div class="footer-icons" >
