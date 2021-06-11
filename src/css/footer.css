@@ -30,7 +30,7 @@ a:link, a:visited {
 }
 @media only screen and (max-width: 600px) {
     .copyright-span{
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 700;
     }
 }
